@@ -103,6 +103,8 @@ The project includes a high-quality Burgundy Velvet Dress model with:
 - Diffuse, normal, metallic-roughness, and displacement maps
 - Optimized geometry for web viewing
 
+**Model Source:** [Burgundy Velvet Dress on CLO-SET](https://connect.clo-set.com/detail/e882ee02b2d04f04b3f50e5b3eea3814)
+
 ## Configuration
 
 You can customize the viewers by modifying the props in `src/App.tsx`:
@@ -173,7 +175,7 @@ This project uses the React-Markerless-AR library by CowTheGreat (MIT License).
 
 - **React-Markerless-AR**: [@cow-the-great/react-markerless-ar](https://github.com/CowTheGreat/React-Markerless-Ar)
 - **Three.js**: [threejs.org](https://threejs.org/)
-- **Model**: Burgundy Velvet Dress
+- **3D Model**: [Burgundy Velvet Dress](https://connect.clo-set.com/detail/e882ee02b2d04f04b3f50e5b3eea3814) from CLO-SET Connect
 
 ## Support
 
